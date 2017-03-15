@@ -4,7 +4,7 @@
     "details": [
     {
       "appID": "N3UM6ZNFT3.co.mtblc.mobile-user",
-      "paths": ["*"]
+      "paths": ["/invite/*"]
     }
     ]
   }
