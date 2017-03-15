@@ -4,7 +4,7 @@
     "details": [
     {
       "appID": "TYBS8Z932N.co.mtblc.mobile-user",
-      "paths": ["/invite"]
+      "paths": ["/invite/*"]
     }
     ]
   }
